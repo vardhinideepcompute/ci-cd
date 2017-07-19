@@ -3,6 +3,4 @@ python:
     - "2.7"
 install:
     - pip install unittest2
-script: 
-python add/add.py
-python prime_no.py
+script: python prime_no.py
