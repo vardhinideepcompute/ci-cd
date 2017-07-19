@@ -2,7 +2,6 @@ language: python
 python:
     - "2.7"
 install:
-    - "pip install ."
     - "pip install unittest2"
-script: 
+script:
     - "unit2 discover tests"
