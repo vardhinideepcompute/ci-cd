@@ -1,9 +1,0 @@
-language : python
-python :
-    - "2.7"
-install :
-    - "pip install ."
-    - "pip install unittest"
-script :
-    - "unit2 discover tests"
-
