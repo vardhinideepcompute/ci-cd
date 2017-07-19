@@ -5,7 +5,7 @@ a = add_num(3, 5, 8)
 print a
 
 def _div(b):
-    print a/b
+print a/b
 _div(8)
 
 print add_num(3, 5, 5)
