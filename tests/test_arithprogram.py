@@ -1,5 +1,5 @@
 import unittest
-import foldera.folderb.arithmetic
+import foldera.folderb.mathcode
 
 class testarithmetic(unittest.TestCase):
     def setUp(self):
