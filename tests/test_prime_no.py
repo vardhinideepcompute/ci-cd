@@ -10,4 +10,4 @@ class PrimesTestCase(unittest2.TestCase):
         self.assertTrue(is_prime(5))
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest2.main()
