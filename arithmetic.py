@@ -1,4 +1,4 @@
-class arith:
+class Arith:
     
     def add(self, a, b):
         c = a + b
@@ -7,5 +7,5 @@ class arith:
     def mul(self, c):
         return c * 5
 
-x = arith()
+x = Arith()
 print x.mul(x.add(1, 9))
